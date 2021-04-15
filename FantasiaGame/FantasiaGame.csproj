@@ -5,12 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="FantasiaAPI">
-      <HintPath>..\..\..\..\..\..\Fantasia\FantasiaAPI\bin\Release\net5.0\FantasiaAPI.dll</HintPath>
-    </Reference>
-    <Reference Include="FastNoiseOO">
-      <HintPath>..\..\..\..\..\..\Fantasia\FantasiaAPI\bin\Release\net5.0\FastNoiseOO.dll</HintPath>
-    </Reference>
+    <PackageReference Include="FantasiaAPI" Version="0.0.1" />
   </ItemGroup>
 
 </Project>
