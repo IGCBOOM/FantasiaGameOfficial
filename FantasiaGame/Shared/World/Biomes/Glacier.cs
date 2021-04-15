@@ -9,8 +9,6 @@ using FantasiaAPI.Shared.Worlds.Generation.Biomes;
 namespace FantasiaGame.Shared.World.Biomes
 {
 
-    // Rocky garbage.
-    // Low humidity, but still rains a bunch.
     public class Glacier : Biome
     {
 
