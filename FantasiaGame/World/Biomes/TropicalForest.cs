@@ -10,7 +10,7 @@ namespace FantasiaGame.World.Biomes
     public class TropicalForest : Biome
     {
 
-        public override string ID { get; } = "tropicalforest";
+        public override string ID { get; } = "tropical_forest";
         public override string BiomeType { get; } = "terra";
         public override double Height { get; } = 16.5;
         public override double Humidity { get; } = 90;
