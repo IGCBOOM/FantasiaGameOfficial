@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using FantasiaAPI.Shared.Worlds.Generation.Biomes;
 
-namespace FantasiaGame.World.Biomes
+namespace FantasiaGame.Shared.World.Biomes
 {
 
     // Tundras are flat-ish land that are too cold for trees to grow.

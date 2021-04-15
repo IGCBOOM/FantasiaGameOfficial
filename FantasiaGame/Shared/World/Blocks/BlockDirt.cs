@@ -8,7 +8,7 @@ using FantasiaAPI.Shared.Blocks;
 using FantasiaAPI.Shared.Worlds;
 using FantasiaGame.Client.Materials;
 
-namespace FantasiaGame.World.Blocks
+namespace FantasiaGame.Shared.World.Blocks
 {
 
     public class BlockDirt : Block

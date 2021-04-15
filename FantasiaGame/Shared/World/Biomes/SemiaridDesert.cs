@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using FantasiaAPI.Shared.Worlds.Generation.Biomes;
 
-namespace FantasiaGame.World.Biomes
+namespace FantasiaGame.Shared.World.Biomes
 {
 
     // Yucky terrain, gravel, etc.
