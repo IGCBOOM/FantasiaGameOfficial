@@ -8,6 +8,9 @@ using FantasiaAPI.Shared.Worlds.Generation.Biomes;
 
 namespace FantasiaGame.World.Biomes
 {
+
+    // Yucky terrain, gravel, etc.
+    // Shrubs & hills.
     public class SemiaridDesert : Biome
     {
 

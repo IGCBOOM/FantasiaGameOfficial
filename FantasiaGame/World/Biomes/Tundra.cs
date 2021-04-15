@@ -8,10 +8,9 @@ using FantasiaAPI.Shared.Worlds.Generation.Biomes;
 
 namespace FantasiaGame.World.Biomes
 {
-    /// <summary>
-    /// Tundras are flat-ish land that are too cold for trees to grow.<br/>
-    /// They can rarely melt snow, and have soggy terrain.
-    /// </summary>
+
+    // Tundras are flat-ish land that are too cold for trees to grow.
+    // They can rarely melt snow, and have soggy terrain.
     public class Tundra : Biome
     {
 
