@@ -17,7 +17,9 @@ namespace FantasiaGame.Shared.World.Biomes
         public override double Humidity { get; } = 80;
         public override double Temperature { get; } = 24.5;
         public override Color BiomeColor { get; } = Color.ForestGreen; // the trees need special treatment.
-        //TODO: make this uncommon whenever the rarity thing is added.
+        public override Color MapBiomeColor { get; } = Color.LightPink;
+        public override double Weight { get; } = 25;
+
     }
 
 }

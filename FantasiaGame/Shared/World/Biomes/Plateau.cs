@@ -17,6 +17,8 @@ namespace FantasiaGame.Shared.World.Biomes
         public override double Humidity { get; } = 45;
         public override double Temperature { get; } = 19;
         public override Color BiomeColor { get; } = Color.SandyBrown;
+        public override Color MapBiomeColor { get; } = Color.Peru;
+        public override double Weight { get; } = 50;
 
     }
 
