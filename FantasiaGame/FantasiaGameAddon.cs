@@ -17,7 +17,7 @@ namespace FantasiaGame
         public override void Init()
         {
 
-
+            Logger.Info("Fantasia Game Initialized!");
 
             base.Init();
 
